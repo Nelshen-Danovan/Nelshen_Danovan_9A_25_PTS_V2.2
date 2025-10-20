@@ -165,7 +165,7 @@
 
 .description .p {
   position: absolute;
-  top: 308px;
+  top:  297px;
   left: 708px;
   width: 672px;
   font-family: "Inclusive Sans-Regular", Helvetica;
@@ -180,9 +180,10 @@
 .description .rectangle-3 {
   position: absolute;
   top: 321px;
-  left: 47;
+  left: 47px;
   width: 553px;
   height: 557px;
   object-fit: cover;
 }
+
 
