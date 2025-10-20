@@ -166,7 +166,7 @@
 .description .p {
   position: absolute;
   top: 308px;
-  left: 768px;
+  left: 708px;
   width: 672px;
   font-family: "Inclusive Sans-Regular", Helvetica;
   font-weight: 400;
@@ -185,3 +185,4 @@
   height: 557px;
   object-fit: cover;
 }
+
